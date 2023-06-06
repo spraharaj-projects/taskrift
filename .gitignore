@@ -2,3 +2,5 @@ env
 .pytest_cache
 .vscode
 .vscode/settings.json
+dist
+__pycache__/
